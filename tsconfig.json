@@ -7,8 +7,6 @@
       "@components/*": ["./src/components/*"],
       "@layouts/*": ["./src/layouts/*"],
       "@styles/*": ["./src/styles/*"]
-    },
-    "jsx": "preserve",
-    "jsxImportSource": "solid-js"
+    }
   }
 }
