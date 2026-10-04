@@ -2,7 +2,6 @@
 
 @plugin "daisyui" {
   themes: false;
-  prefix: "ui-";
 }
 
 @plugin "daisyui/theme" {
